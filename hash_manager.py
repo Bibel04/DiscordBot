@@ -1,5 +1,5 @@
 from hashlib import *
-file = "E:/Pulpit/rockyou.txt"
+file = "YOUR FILE WITH PASSWORDS"
 
 
 class CrackHashes:
