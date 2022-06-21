@@ -86,22 +86,4 @@ async def generate_rsa(ctx, text):
     # generator = RsaGenerator()
 
 
-client.run('OTgyMDE5MzcyNjQwMDEwMjcx.Goe03x.Fl95-uZ751DMrRmD6Et5tXeVMIEvbsGG5q8nKs')
-
-
-
-# client = discord.Client()
-#
-# @client.event
-# async def on_ready():
-#     print('We have logged in as {0.user}'.format(client))
-#
-# @client.event
-# async def on_message(message):
-#     if message.author == client.user:
-#         return
-#
-#     if message.content.startswith('$hello'):
-#         await message.channel.send('Hello!')
-#
-# client.run('OTgyMDE5MzcyNjQwMDEwMjcx.Goe03x.Fl95-uZ751DMrRmD6Et5tXeVMIEvbsGG5q8nKs')
+client.run('YOUR BOT ID')
