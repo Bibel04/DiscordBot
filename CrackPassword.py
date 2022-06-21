@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 import pyautogui
 
-file = "E:/Pulpit/rockyou.txt"
+file = "YOUR FILE WITH PASSWORDS"
 page = "http://localhost/dvwa/vulnerabilities/brute/"
 
 
